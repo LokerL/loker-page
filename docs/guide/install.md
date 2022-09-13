@@ -6,7 +6,6 @@ category:
   - 使用指南
 tag:
   - 安装运行
-sticky: true
 star: true
 ---
 

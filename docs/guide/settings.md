@@ -6,6 +6,5 @@ category:
   - 使用指南
 tag:
   - 设置
-sticky: true
 star: true
 ---
