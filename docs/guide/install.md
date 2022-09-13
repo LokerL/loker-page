@@ -59,11 +59,11 @@ github： [https://github.com/LokerL/tts-vue](https://github.com/LokerL/tts-vue 
 gitee： [https://gitee.com/LGW_space/tts-vue](https://gitee.com/LGW_space/tts-vue "github仓库")
 
 ```bash
-git clone https://github.com/LokerL/tts-vue
+git clone https://github.com/LokerL/tts-vue.git
 
 OR
 
-git clone https://gitee.com/LGW_space/tts-vue
+git clone https://gitee.com/LGW_space/tts-vue.git
 ```
 
 或者你可以在仓库直接下载源码的压缩包。
