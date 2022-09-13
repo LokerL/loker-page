@@ -20,7 +20,9 @@ export default hopeTheme({
 
   repoDisplay: true,
 
-  docsDir: "demo/src",
+  docsBranch: "master",
+
+  docsDir: "docs",
 
   darkmode: "toggle",
 
