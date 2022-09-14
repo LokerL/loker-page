@@ -15,6 +15,6 @@ sticky: true
 
 - [功能介绍](features.md)
 
-- [设置页面](settings.md)
-
 - [常见问题](qa.md)
+
+- [更新日志](update.md)
