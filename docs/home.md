@@ -36,5 +36,5 @@ features:
 
   - title: 日志功能
     icon: list
-    details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
+    details: 记录运行过程中的问题。
 ---
