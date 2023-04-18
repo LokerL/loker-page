@@ -6,7 +6,7 @@ export default navbar([
   { text: "使用指南", icon: "creative", link: "/guide/" },
   {
     text: "加入Q群(752801820)",
-    icon: "group",
+    icon: "proxy",
     link: "https://jq.qq.com/?_wv=1027&k=bMNZfGxs",
   },
 ]);
