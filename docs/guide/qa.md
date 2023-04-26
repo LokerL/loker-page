@@ -13,12 +13,14 @@ star: true
 
 ### 转换失败检查：
 
-1. 网络问题
-2. 特殊字符
+1. 点击左上角第4个按钮打开开发者工具
+2. 点击console打开控制台
+3. 点击custom level**取消**勾选Warnings
+4. 点击“开始转换”，并查看console输出内容
 
 ### 问题自查：
 
-Request faild 网络问题
+- Request faild 网络问题
 
 ## 网络异常？
 
