@@ -20,7 +20,8 @@ star: true
 
 ### 问题自查：
 
-- Request faild 网络问题
+- AxiosError: Request failed with status code 429 网络问题
+- 出现AxiosError或者Request failed都是网络问题，应该是微软那边把你的IP给限制了，暂时没有解决方案
 
 ## 网络异常？
 
@@ -41,7 +42,7 @@ star: true
 - 解决方法：
 - 点击`设置`->`打开日志`，查看日志文件
 
-  日志文件保存路径：`C:\Users\用户名\AppData\Roaming\tts-vue\logs`（**记得定期手动清理日志**）
+  日志文件保存路径：`C:\Users\用户名\AppData\Roaming\tts-vue\logs`（**为避免日志文件过多，记得定期手动清理日志**）
 
   停在`创建webscoket连接...`是因为网络问题
 
