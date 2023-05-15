@@ -58,13 +58,17 @@ star: true
 ## 如何调整多音字的读音或添加中断或暂停等 ？
 
 - 解决方法：
-
+  使用简单SSML或者拼音
   文本内容输入这个试试，简单的读音例子：
 
   ```txt
     你好啊
     读<phoneme alphabet="sapi" ph="chong 2 liang 4">重量</phoneme>是不对的
     要读成“重量”
+    
+    或者使用拼音：
+    重量 重复 和颜悦色 和稀泥
+    zhòng liàng  chóng fù  hé yán yuè sè  huò xī ní 
   ```
 
   ![image](https://user-images.githubusercontent.com/44148627/187923533-5f0a2375-c685-475e-9e51-d0ef3c3ce19e.png)
