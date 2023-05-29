@@ -9,8 +9,13 @@ export default navbar([
     icon: "group",
     children: [
       {
-        text: "tts-vue问题反馈群②(702034846)",
-        icon: "people",
+        text: "tts-vue问题反馈群③(474128303)",
+        icon: "group",
+        link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7gvofti_Vl8hyDtZqVxuAwQSyYOaODOT&authKey=WBGICfV9oJXjeXL01KGcxg6FFzgyLgejgle0ZFRQpHMWDha4HftPvqfBGojiSHko&noverify=0&group_code=474128303",
+      },
+      {
+        text: "tts-vue问题反馈群②(702034846)-已满",
+        icon: "group",
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5-vK4VI8ueWoF-cBDl6PjBzfDeWRqmvw&authKey=ZHIxqKeYEGewEZFtKtT5o1UNbTtAEnMOe4vH2haBIxA8edc1U%2F4rn5R9RKSv5%2BRF&noverify=0&group_code=702034846",
       },
       {
