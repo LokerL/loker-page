@@ -20,8 +20,8 @@ star: true
 
 ### 问题自查：
 
-- **429错误：**AxiosError: Request failed with status code **429** 网络问题。出现429都是网络问题，应该是微软那边把你的IP给限制了，暂时没有解决方案
-- **400错误：**AxiosError: Request failed with status code **400**，内容错误。文本内出现了不能识别的字符，如：“&”等，或者使用了官方弃用的语音。
+- **429错误：** AxiosError: Request failed with status code **429** 网络问题。出现429都是网络问题，应该是微软那边把你的IP给限制了，暂时没有解决方案
+- **400错误：** AxiosError: Request failed with status code **400** 内容错误。文本内出现了不能识别的字符，如：“&”等，或者使用了官方弃用的语音。
 
 ## 网络异常？
 
