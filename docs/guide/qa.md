@@ -65,8 +65,23 @@ star: true
     重量 重复 和颜悦色 和稀泥
     zhòng liàng  chóng fù  hé yán yuè sè  huò xī ní 
   ```
-
+  
   ![image](https://user-images.githubusercontent.com/44148627/187923533-5f0a2375-c685-475e-9e51-d0ef3c3ce19e.png)
+  
+  停顿与不停顿，试试这个：
+  不停顿
+  
+  ```txt
+  你好啊<mstts:ttsbreak strength="none" />今天天气怎么样?
+  ```
+  
+  停顿2秒
+  ```txt
+  你好啊<break time="2000ms"/>今天天气怎么样?
+  ```
+  
+  ![image](https://github.com/LokerL/loker-page/assets/44148627/ee9323d7-1734-48db-bb76-629bee264ca8)
+
   详情可以看：[使用音素改善发音](https://docs.microsoft.com/zh-cn/azure/cognitive-services/speech-service/speech-synthesis-markup?tabs=csharp#use-phonemes-to-improve-pronunciation)
 
 ## 批量转换失败或者听到都是“汪汪汪”(one one one)的声音
