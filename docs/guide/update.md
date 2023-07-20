@@ -9,6 +9,14 @@ tag:
 star: true
 ---
 
+## V1.9.12
+
+更新 [feat: add azure api](https://github.com/LokerL/tts-vue/commit/557129974b370753caa22b4b4188b37900ab5cd3) @ElmTran
+
+需要在设置页面配置key和region
+
+需要去微软官网申请接口key和region，以前的功能不受影响。
+
 ## V1.9.10
 
 - 修复部分角色风格和角色缺失问题
