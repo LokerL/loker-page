@@ -14,7 +14,7 @@ star: true
 ### 接口对应关系
 
 1. Microsoft Speech API：对应微软演示页面的接口，稳定性不佳，但是免费
-2. Edge Speech API：对应Edge浏览器的大声朗读接口，稳定性还行，免费，但是好像有单次的长度现在，限制未知
+2. Edge Speech API：对应Edge浏览器的大声朗读接口，稳定性还行，免费，但是有单次的长度限制，具体限制未知，并且该接口未对文本切片
 3. Azure Speech API：微软TTS的正式接口，稳定性最佳，每月50W字符免费，推荐有能力的人使用，需要微软账号。
 
 ### Azure Speech API使用，key和region获取
