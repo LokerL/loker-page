@@ -17,6 +17,16 @@ star: true
 
 需要去微软官网申请接口key和region，以前的功能不受影响。
 
+接口使用详情可见：
+
+- [微软文本转语音文档](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/index-text-to-speech)
+- [微软文本转语音概述](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/text-to-speech)
+- [微软文本转语音快速入门](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/get-started-text-to-speech?tabs=windows%2Cterminal&pivots=programming-language-javascript#prerequisites) **【重要：请仔细阅读先决条件，里面有如何获取`key`和`region`】**
+  - Azure 订阅 - 免费创建订阅
+  - 在 Azure 门户中创建语音资源。
+  - 获取语音资源密钥和区域。 部署语音资源后，选择“转到资源”以查看和管理密钥。 有关 Azure AI 服务资源的详细信息，请参阅获取资源密钥。
+- 拿到key和region后填入设置页面的相应区域。
+
 ## V1.9.10
 
 - 修复部分角色风格和角色缺失问题

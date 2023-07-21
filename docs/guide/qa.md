@@ -11,6 +11,22 @@ star: true
 
 ## 问题自查
 
+### 接口对应关系
+
+1. Microsoft Speech API：对应微软演示页面的接口，稳定性不佳，但是免费
+2. Edge Speech API：对应Edge浏览器的大声朗读接口，稳定性还行，免费，但是好像有单次的长度现在，限制未知
+3. Azure Speech API：微软TTS的正式接口，稳定性最佳，每月50W字符免费，推荐有能力的人使用，需要微软账号。
+
+### Azure Speech API使用，key和region获取
+
+- [微软文本转语音文档](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/index-text-to-speech)
+- [微软文本转语音概述](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/text-to-speech)
+- [微软文本转语音快速入门](https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/get-started-text-to-speech?tabs=windows%2Cterminal&pivots=programming-language-javascript#prerequisites) **【重要：请仔细阅读先决条件，里面有如何获取`key`和`region`】**
+  - Azure 订阅 - 免费创建订阅
+  - 在 Azure 门户中创建语音资源。
+  - 获取语音资源密钥和区域。 部署语音资源后，选择“转到资源”以查看和管理密钥。 有关 Azure AI 服务资源的详细信息，请参阅获取资源密钥。
+- 拿到key和region后填入设置页面的相应区域。
+
 ### 转换失败检查：
 
 1. 点击左上角第4个按钮打开开发者工具
