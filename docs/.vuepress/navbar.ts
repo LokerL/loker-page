@@ -9,7 +9,7 @@ export default navbar([
     icon: "group",
     children: [
       {
-        text: "tts-vue反馈群⑤(439382846)",
+        text: "tts-vue反馈群⑤(439382846)-满",
         icon: "group",
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=aFtHnpeEerVM7UCV8NTSeqsQrUPgo0G2&authKey=g1KT%2F7xaoa%2FT3usmwk5YRIIdkzeJ4bW6tsWCgcopbzCRTwseXTGQS54ZDTmRPmt6&noverify=0&group_code=439382846",
       },
